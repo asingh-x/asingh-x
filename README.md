@@ -6,6 +6,8 @@
 
 Currently own and manage platform infrastructure supporting services that handle an average of **70 million requests/day**, at a **99.95% availability SLO**.
 
+Lately, exploring agentic AI and enjoying working through the problems it raises.
+
 #### Tech Stack
 
 - **Cloud & Platforms:** AWS, EKS, Kubernetes, Docker, Helm, Argo CD
