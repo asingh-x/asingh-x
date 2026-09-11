@@ -1,14 +1,15 @@
-#### Hi! I am Avinash, a Senior SRE / Platform Engineer
+### Hello, I am Avinash
 
-> Philosophy: Simply put, things always had to be in a production-ready state. If you wrote it, you'd better be there to get it running.
+I'm a Senior Software Engineer at Fabletics Inc. with 7 years of experience building and operating cloud and on-premises infrastructure. My work spans Kubernetes, AWS, Terraform, Linux, networking, GitOps, CI/CD, observability, and production reliability.
 
-7 years of experience building and operating cloud and on-premises infrastructure. Hands-on with Kubernetes, AWS, Terraform, GitOps, CI/CD, observability, and production incident response.
+My work philosophy is: 
+> Simply put, things always had to be in a production-ready state. If you wrote it, you'd better be there to get it running.
 
-Currently own and manage platform infrastructure supporting services that handle an average of **70 million requests/day**, at a **99.95% availability SLO**.
+Currently, I manage platform infrastructure supporting services that handle an average of 70 million requests per day, with a 99.95% availability SLO.
 
-Lately, exploring agentic AI and enjoying working through the problems it raises.
+My focus has expanded to agentic AI to solve real world problems.
 
-#### Tech Stack
+### Tech Stack
 
 - **Cloud & Platforms:** AWS, EKS, Kubernetes, Docker, Helm, Argo CD
 - **Infrastructure & Automation:** Terraform, Ansible, Python, GitOps, Git, Shell Scripting
