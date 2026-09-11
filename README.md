@@ -19,4 +19,11 @@ My focus has expanded to agentic AI to solve real world problems.
 
 #### Connect
 
-[LinkedIn](https://www.linkedin.com/in/ciaoavinash/)
+<a href="https://www.linkedin.com/in/ciaoavinash/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    width="25"
+    height="25"
+  />
+</a>
